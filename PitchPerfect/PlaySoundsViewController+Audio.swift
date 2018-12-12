@@ -3,6 +3,7 @@
 //  PitchPerfect
 //
 //  Copyright © 2016 Udacity. All rights reserved.
+//  Testing git with remote GitHub repo
 //
 
 import UIKit
